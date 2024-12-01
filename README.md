@@ -43,11 +43,5 @@ Ensure the following are installed on your system:
 ```bash
 git clone https://github.com/your-username/content-brief-generator.git
 
-**Install Dependencies:**
-```bash
-npm install
 
-**Start the Development Server:**
-```bash
-npm start
 
