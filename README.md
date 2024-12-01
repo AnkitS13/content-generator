@@ -1,3 +1,5 @@
+![Screenshot 2024-12-01 220822](https://github.com/user-attachments/assets/2ceb13fc-83cc-4ee0-a595-8f5c8028aba7)
+
 # ***Content Brief Generator***
 
 **About**  
@@ -62,8 +64,6 @@ npm start
 ```bash
 git clone https://github.com/your-username/content-brief-generator.git
 
-
-![Screenshot 2024-12-01 220822](https://github.com/user-attachments/assets/2ceb13fc-83cc-4ee0-a595-8f5c8028aba7)
 
 
 
