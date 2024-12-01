@@ -20,6 +20,8 @@ Built with ReactJS for the frontend and integrated with the Gemini API, this pro
 - Data is stored and managed using Redux Toolkit, with slices for structured state organization.  
 - State persistence is implemented using Redux Persist for maintaining user data across sessions.  
 
+--- 
+
 **User Interface:**  
 - ReactJS provides a dynamic and interactive UI for displaying the brief content, summaries, and source links.  
 
@@ -59,6 +61,9 @@ npm start
 -**Clone the Repository:**  
 ```bash
 git clone https://github.com/your-username/content-brief-generator.git
+
+
+![Screenshot 2024-12-01 220822](https://github.com/user-attachments/assets/2ceb13fc-83cc-4ee0-a595-8f5c8028aba7)
 
 
 
