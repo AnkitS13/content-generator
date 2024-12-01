@@ -48,11 +48,21 @@ npm start
 
 ---
 
+**Deployment Link**  
+(https://ankit-content-gen-techimax.vercel.app/)
+
+---
+
+
 **Installation**  
 
 -**Clone the Repository:**  
 ```bash
 git clone https://github.com/your-username/content-brief-generator.git
+
+
+
+
 
 
 
