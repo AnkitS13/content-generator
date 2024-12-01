@@ -42,3 +42,10 @@ Ensure the following are installed on your system:
 **Clone the Repository:**  
 ```bash
 git clone https://github.com/your-username/content-brief-generator.git
+
+**Install Dependencies:**
+npm install
+
+**Start the Development Server:**
+npm start
+
