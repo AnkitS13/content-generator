@@ -1,4 +1,4 @@
-***Content Brief Generator***
+```***Content Brief Generator***```
 **About**
 The Content Brief Generator simplifies the process of content exploration and provides users with concise, well-structured information. 
 Built with ReactJS for the frontend and integrated with the Gemini API, this project enables users to search for content, retrieve results, generate summaries, and view source links for a seamless user experience.
